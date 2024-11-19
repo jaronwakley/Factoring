@@ -1,5 +1,5 @@
 # Given a number, this program divides it into two until it is odd and then factors it into two of its factors that are closest to the square root of the number.
-# Every number can be expressed as the difference of two square numbers and the factors of the number can be found by taking the square root of those two squares.
+# Every odd number can be expressed as the difference of two square numbers and the factors of the number can be found by taking the square root of those two squares.
 # Example: 33 = 7² - 4² | The factors are 7 - 4 and 7 + 4
 
 import math, time
